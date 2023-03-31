@@ -37,13 +37,13 @@ The tools and plots discussed above are crucial in decision-making when given a 
 
 # Assessment Using Reliability Demonstration Chart 
 <strong>MTTFmin Plots:</strong><br>
-MTTFmin:
+MTTFmin: <br>
 ![Failures](media/MTTFmin.png)<br>
 
-MTTFmin / 2:
+MTTFmin / 2: <br>
 ![Failures](media/MTTFmin_half.png)<br>
 
-MTTFmin * 2:
+MTTFmin * 2: <br>
 ![Failures](media/MTTFmin_double.png)<br>
 
 <strong>Choice For MTTFmin:</strong><br>
