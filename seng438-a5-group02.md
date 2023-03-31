@@ -33,6 +33,8 @@ Below is a failure intensity plot of the dataset.
 
 ![Intensity](media/intensity.jpg)<br>
 
+The tools and plots discussed above are crucial in decision-making when given a target failure rate. This information can be leveraged to optimize tracking bugs in pre-release, as well as collecting data to guide the software testing process and maintaining the product after release.
+
 # Assessment Using Reliability Demonstration Chart 
 
 # 
