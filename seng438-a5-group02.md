@@ -36,6 +36,21 @@ Below is a failure intensity plot of the dataset.
 The tools and plots discussed above are crucial in decision-making when given a target failure rate. This information can be leveraged to optimize tracking bugs in pre-release, as well as collecting data to guide the software testing process and maintaining the product after release.
 
 # Assessment Using Reliability Demonstration Chart 
+<strong>MTTFmin Plots:</strong><br>
+MTTFmin:
+![Failures](media/MTTFmin.png)<br>
+
+MTTFmin / 2:
+![Failures](media/MTTFmin_half.png)<br>
+
+MTTFmin * 2:
+![Failures](media/MTTFmin_double.png)<br>
+
+<strong>Choice For MTTFmin:</strong><br>
+We chose the MTTFmin value based on the boundary between the continue and accept regions. To find the minimum acceptable MTTF for the tests to pass we chose the MTTF value that sits right on the aforementioned boundary. In this case the value we chose for MTTFmin was about 2.88 when using the default values for Discrimination Ratio(𝞬), Customer Risk(β), and Developer Risk(ɑ) which were 2, 0.1, 0.1, respectively, we also set the failures per second to 1.44. We decided to choose MTTFmin to be on the continue/accept boundary because a value below the boundary would necessitate the continuation of testing and not its acceptance. Meanwhile a value above the boundary would still constitute acceptance however it would not be the smallest value to do so.
+
+<strong>Advantages and Disadvantages:</strong><br>
+RDC is a great certification testing tool that is a very versatile, time and cost efficient way to analyze the reliability of a system. Using the RDC we can easily experiment with different confidence levels as well as MTTF values which allows us to gain a better understanding of how the chart changes when provided with different values. A disadvantage of using RDC to assess the reliability of tests is that RDC does not provide exact values for the reliability or availability of the system being tested, the RDC only indicates whether a test set is acceptable or not which may not be enough in case more detailed results are necessary.
 
 # 
 
