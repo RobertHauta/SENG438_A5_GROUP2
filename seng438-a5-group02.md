@@ -8,6 +8,7 @@
 | Robert Hauta    |   |
 | Joshua Weir     |   |
 | Ernest Sarna    |   |
+| Jana Afifi      |   |
 
 # Introduction
 
