@@ -58,6 +58,7 @@ RDC is a great certification testing tool that is a very versatile, time and cos
 # 
 
 # Comparison of Results
+As can be seen from our Reliability Growth Testing, the data becomes no longer acceptable at around interval 42,this is the approximate location of the inflection point of the graph which determines where the data should be cut off for analysis. When looking at the RDC we see that the minimum MTTF is at around 1.44 failures per second, which is when the tests become acceptable. When looking at the intensity graph from the Growth Testing we can average the number of failures per interval to about 1.07 which is below the minimum MTTF of 1.44, intervals in this case being seconds. When inputting this value into the RDC we see that the data is now in the continue region meaning that we will have to continue testing to see whether the tests have met the failure intensity objective or not. Using both of these techniques is crucial to determining whether a test set can be accepted or rejected based on various criteria as both techniques are needed to determine the end result.
 
 # Discussion on Similarity and Differences of the Two Techniques
 
