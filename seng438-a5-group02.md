@@ -12,7 +12,9 @@
 
 # Introduction
 
-# 
+This lab focuses on using reliability assessment tools, specifically in the contexts of Reliability Growth Testing (RGT) and Reliability Demonstration Charts (RDC). We will use software tools such as C-SFRAT and SRTAT to model these assessment methods, and analysize the data of the provided sample datasets.
+
+The goal of this lab is to understand the usability and features of both assessment methods, including the use of specific metrics such as target failure rate or MTTF criteria. To further understand these assessment tools, we will also discuss the advantages and disadvantages of both.
 
 # Assessment Using Reliability Growth Testing 
 
