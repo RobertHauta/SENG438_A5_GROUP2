@@ -6,8 +6,8 @@
 |-----------------|---|
 | Student Names:  |   |
 | Robert Hauta    |   |
-|    Joshua Weir             |   |
-|                 |   |
+| Joshua Weir     |   |
+| Ernest Sarna    |   |
 
 # Introduction
 
