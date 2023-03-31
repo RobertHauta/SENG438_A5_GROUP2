@@ -63,8 +63,14 @@ RDC is a great certification testing tool that is a very versatile, time and cos
 
 # How the team work/effort was divided and managed
 
-# 
+For this lab, we collaboratively worked on our Reliability growth testing and Reliability assessment using Reliability Demonstration Chart (RDC). 
+Jana and Robert: both worked on Reliability growth testing
+Ernest and Joshua: worked on Reliability assessment using Reliability Demonstration Chart (RDC). 
+
+We all participated in discussing and comparing the results of the charts.
+
 
 # Difficulties encountered, challenges overcome, and lessons learned
-
+The greatest challenge we faced as a group was figuring out how to use C-SFRAT and generate different graphs. We tackled this problem by trying different features until we figured out how it works. Another problem we faced is that some of us had troubles with C-SFRAT it kept freezing and crashing and sometimes it did not work properly. In addition, it is not compatible with mac laptops so some of the team members struggled with this issue that they could not use the program. 
 # Comments/feedback on the lab itself
+We found this lab very helpful as it allowed us to gain experience with assessing the reliability of a system. Also, we are now familiar with C-SFRAT and START and we know how to use them.
