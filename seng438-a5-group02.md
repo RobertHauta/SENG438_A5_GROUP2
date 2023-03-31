@@ -64,9 +64,7 @@ RDC is a great certification testing tool that is a very versatile, time and cos
 # How the team work/effort was divided and managed
 
 For this lab, we collaboratively worked on our Reliability growth testing and Reliability assessment using Reliability Demonstration Chart (RDC). 
-Jana and Robert: both worked on Reliability growth testing
-
-Ernest and Joshua: worked on Reliability assessment using Reliability Demonstration Chart (RDC). 
+Jana and Robert both worked on Reliability growth testing while Ernest and Joshua worked on Reliability assessment using Reliability Demonstration Chart (RDC). 
 
 We all participated in discussing and comparing the results of the charts.
 
