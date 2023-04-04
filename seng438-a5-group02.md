@@ -62,6 +62,8 @@ As can be seen from our Reliability Growth Testing, the data becomes no longer a
 
 # Discussion on Similarity and Differences of the Two Techniques
 
+Reliability Demonstration Charts firstly give us information on whether enough testing has been done to the system under test to make any hard conclusions. Secondly, if enough testing has been done the Reliabilty Demostration Chart will indicate if the system is accepted or rejected based on the MTTF. Additionally, the RDC takes in parameters based on customer and producer specifications to come up with the boundary lines between accept and continue regions as well as reject and continue regions. Similarly, Reliability Growth Testing can determine if sufficient testing has been done based on a best fit model of the failure intensity and a given value for the target failure rate. Although both techniques give information on if sufficient testing has been done, Reliability Growth Testing gives a prediction on how much more testing must be done. Another difference between the two techniques is the fact that RDC uses a normalized mean time to failure whereas Reliability Growth Testing uses data in the form of discrete time intervals and number of failures.
+
 # How the team work/effort was divided and managed
 
 For this lab, we collaboratively worked on our Reliability growth testing and Reliability assessment using Reliability Demonstration Chart (RDC). 
